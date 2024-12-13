@@ -38,3 +38,6 @@ def classify_fruit():
     plt.legend()
     plt.title("Clasificación de Frutas con k-NN")
     plt.show()
+
+if __name__ == "__main__":
+    classify_fruit()
